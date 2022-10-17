@@ -4,6 +4,7 @@ hide:
 ---
 
 # Bootcamp
+ds.afjsslkdjfjf
 <h2> Poster </h2>
 ![](../images/MT01/WhatiftheRevolution-Friends.png)
 <h3>What if the revolution exists in our community care?</h3>
