@@ -4,7 +4,7 @@ hide:
 ---
 
 # Atlas of Weak Signals
-
+![](../images/W02-AoWS/FullMap.png)
 ## THE SHORT (I know we are all short on time)
 For my design space the weak signals I chose were:
 *	Imagining Futures that are not Western-Centric
@@ -22,7 +22,7 @@ With these weak signals, some areas of opportunity I would like to explore are:
 
 ## THE LONG (Hey, if you want to get to know me and my work better, this is a WAAY better way)
 
-Surrounded by plants, insects, friends, and the sound of the city in the Jardin de Mariposas each of us in our class set off to build our own design space. With my new [Atlas of Weak Signals cards] (https://www.youtube.com/watch?v=L7yyGwTrT5g&ab_channel=FabLabBarcelona "Youtube link to learn more about the Atlas of Weak Signals Cards" ) in hand and the explanation from our lovely lecturer, [Marianna Quintero] (https://iaac.net/dt-team/mariana-quintero/ "Link to Mariana's bio on the IAAC website"), I set off to find the cards that I resonated most with.
+Surrounded by plants, insects, friends, and the sound of the city in the Jardin de Mariposas each of us in our class set off to build our own design space. With my new <a href="https://www.youtube.com/watch?v=L7yyGwTrT5g&ab_channel=FabLabBarcelona"> Atlas of Weak Signals cards </a> in hand and the explanation from our lovely lecturer, [Marianna Quintero] (https://iaac.net/dt-team/mariana-quintero/ "Link to Mariana's bio on the IAAC website"), I set off to find the cards that I resonated most with.
 
 I started by drawing from the weak signal category I felt most drawn to: “Kill the Heteropatriarchy”. I think what drew me to this category was the aggressive nature the name and how the words choice was in direct contrast to my desired focus of this masters: Radical Love and Care. *(Hey, I know we got to kill/dismantle some things to make way for some radical love – but the dichotomy made me smile, ok?)*
 
@@ -46,6 +46,6 @@ Now for the card I feel that might be the most out of place: Rural Futures *(I r
 
 SOOO all these weak signals are really just a vehicle to feed my obsession about what it means to love and care for each other. “Imagining Futures that are not Western-Centric” works as the overarching theme, as love and care is not particularly valued in our current society *(kind of weird for a society that is so obsessed with it though?)*, and to imagine love as our way forward is *(to me)* inherently radical. Then “Rural Futures”, “Interspecies Collaboration”, and “Human-Machine Creative Collaborations” provide a rich research and experimentation space to understand what love really looks like and what it could be.
 
-If you want to check out my full Design Space, [I encourage you to follow this link to my miro!](https://miro.com/app/board/uXjVPOimLrg=/?share_link_id=41125234929) I will do my best to update it throughout the semester, so peep into it when you can! 
+If you want to check out my full Design Space, [I encourage you to follow this link to my miro!](https://miro.com/app/board/uXjVPOimLrg=/?share_link_id=41125234929) I will do my best to update it throughout the semester, so peep into it when you can!
 
 BUT since I now vaguely know what I wanna look into, I think next steps involve research how I should define love in my work 😊
