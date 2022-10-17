@@ -7,18 +7,21 @@ hide:
 ![](../images/W02-AoWS/FullMap.png)
 ## THE SHORT (I know we are all short on time)
 For my design space the weak signals I chose were:
-*	Imagining Futures that are not Western-Centric
-*	Rural Futures
-* Interspecies Collaboration
-* Human-Machine Creative Collaborations
+
+- Imagining Futures that are not Western-Centric
+- Rural Futures
+- Interspecies Collaboration
+- Human-Machine Creative Collaborations
+
 I hope to explore each weak signal in relation to my fight – community care and love. I’ve worked in community care for most of my career, as I am naturally drawn to it, but I wanted to explore topics like Machine-Learning AI, Rural Making, and Interspecies perspectives all in relation to how each can have the capacity of love.
 
 This feels particularly relevant to me as I feel we are in a time of our society where people feel disenchanted with what Western society has to offer. In a society that feels particularly “loveless” and somewhat hopeless, isn’t it the time to explore what it really means to love – in as many forms we can imagine?
 
 With these weak signals, some areas of opportunity I would like to explore are:
-* How can the care networks in small rural communities harnessed to secure their future? Through tech or through environmental collaboration?
-* How could visualizing love and care from our non-human counterparts create a deeper connection to them?
-* What does love look, feel, sound and taste (?) like at different scales of our society? Both human and non-human scales?
+
+- How can the care networks in small rural communities harnessed to secure their future? Through tech or through environmental collaboration?
+- How could visualizing love and care from our non-human counterparts create a deeper connection to them?
+- What does love look, feel, sound and taste (?) like at different scales of our society? Both human and non-human scales?
 
 ## THE LONG (Hey, if you want to get to know me and my work better, this is a WAAY better way)
 
@@ -26,17 +29,13 @@ Surrounded by plants, insects, friends, and the sound of the city in the Jardin 
 
 I started by drawing from the weak signal category I felt most drawn to: “Kill the Heteropatriarchy”. I think what drew me to this category was the aggressive nature the name and how the words choice was in direct contrast to my desired focus of this masters: Radical Love and Care. *(Hey, I know we got to kill/dismantle some things to make way for some radical love – but the dichotomy made me smile, ok?)*
 
-<figure>
 ![](../images/TopicStatement.png)
-<figcaption align="center" > Yes, I wrote myself a thesis statement – can you tell I love structure? </figcaption>
-</figure>
+*Yes, I wrote myself a thesis statement – can you tell I love structure?*
 
 So, [if you may have read](https://marielle-wall.github.io/MDEF/temr1/01-Bootcamp/) *(or may not have read, I don’t think I wrote that much)* in my first reflection, my “fight” is for community care. It is largely more of a question about what it looks like to radically pursue love in a Western/Colonial society that doesn’t value it. And with that fight, I think you can guess what my first and most important card is: “Imagining Futures that are not Western-Centric”… Then came “Rural Futures”, “Interspecies Collaboration”, and “Human-Machine Creative Collaborations”.
 
-<figure>
 ![](../images/W02-AoWS/WeekSignalsCards.png)
-<figcaption align="center" > *As you can see, I am basically just filled with questions about everything – no real answers, just a sh*t ton of questions* </figcaption>
-</figure>
+ *As you can see, I am basically just filled with questions about everything – no real answers, just a sh*t ton of questions*
 
 Much of my past-work revolved around my love for people, but I want to begin exploring what it means to show acts of love to our environment and other species. Much of humanity’s relationship to non-humans is purely extractive. We often see ourselves as above non-humans, not equal to, therefore many think non-humans are incapable of care and love. I want to challenge and explore this belief and am curious about what it means to love non-humans and how non-humans love us.
 
