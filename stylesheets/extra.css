@@ -1,3 +1,4 @@
+
 :root>* {
 
     --md-footer-bg-color: white;
@@ -6,9 +7,14 @@
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'IBM Plex Sans', sans-serif;
+    --mdc-typography-headline2-font-family: 'Rubik Mono One', sans-serif;
     --mdc-typography-font-family: 'IBM Plex Sans', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
+}
 
+@font-face {
+  font-family: 'Rubik Mono One', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 }
 
 .hide-scroll-bar {
