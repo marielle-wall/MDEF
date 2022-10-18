@@ -40,7 +40,7 @@
 
 .md-typeset h2 {
     font-weight: 500;
-    font-family: 'Rubik Mono One'; /*Added by Marielle*/
+    font-family: 'Rubik Mono One', sans-serif; /*Added by Marielle*/
 }
 
 .mdc-typography--body2 {
