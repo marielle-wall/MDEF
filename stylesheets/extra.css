@@ -32,10 +32,10 @@
   color: rgb(32, 32, 32);
 }
 
-/*@font-face {
+@font-face {
   font-family: 'Rubik Mono One', sans-serif;
   src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
-}*/
+}
 
 .md-typeset h2 {
     font-weight: 400;
