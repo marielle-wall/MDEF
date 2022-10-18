@@ -8,7 +8,7 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'IBM Plex Sans', sans-serif;
     --mdc-typography-font-family: 'IBM Plex Sans', sans-serif;
-    --md-typeset-a-color: white;
+    --md-typeset-a-color: rgb(51, 66, 160);
 }
 
 .hide-scroll-bar {
@@ -32,14 +32,20 @@
   color: rgb(32, 32, 32);
 }
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+</style>
+
+/*
 @font-face {
   font-family: 'Rubik Mono One', sans-serif;
   src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 }
+*/
 
 .md-typeset h2 {
     font-weight: 400;
-    font-family: "Rubik Mono One"; /*Added by Marielle*/
+    font-family: 'Lobster'; /*Added by Marielle*/
 }
 
 .mdc-typography--body2 {
