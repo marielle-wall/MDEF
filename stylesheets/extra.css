@@ -8,7 +8,7 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'IBM Plex Sans', sans-serif;
     --mdc-typography-font-family: 'IBM Plex Sans', sans-serif;
-    --md-typeset-a-color: rgb(51, 51, 204);
+    --md-typeset-a-color: white;
 }
 
 .hide-scroll-bar {
