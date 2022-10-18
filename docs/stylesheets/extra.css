@@ -1,5 +1,6 @@
 
 :root>* {
+    --md-default-bg-color: rgb(255, 204, 204); /*Added by Marielle*/
     --md-footer-bg-color: white;
     --md-footer-fg-color: rgb(32, 32, 32);
     --md-footer-bg-color--dark: white;
@@ -11,12 +12,11 @@
     --md-typeset-a-color: rgb(12, 240, 190);
 }
 
-
-
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
+
   .hide-scroll-bar::-webkit-scrollbar {
     display: none;
   }
@@ -33,6 +33,11 @@
   color: rgb(32, 32, 32);
 }
 
+@font-face {
+  font-family: 'Rubik Mono One', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+}
+
 .md-typeset h2 {
     font-weight: 500;
     font-family: 'Rubik Mono One'; /*Added by Marielle*/
@@ -44,8 +49,3 @@
 }
 
 /*END OF CSS PRESET*/
-
-@font-face {
-  font-family: 'Rubik Mono One', sans-serif;
-  src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
-}
