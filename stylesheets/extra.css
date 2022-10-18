@@ -1,7 +1,7 @@
 
 :root>* {
 
-    --md-footer-bg-color: white;
+    --md-footer-bg-color: rgb(255, 205, 210);
     --md-footer-fg-color: rgb(32, 32, 32);
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
@@ -38,22 +38,10 @@
 }
 
 .md-typeset h2 {
-    font-weight: 500;
+    font-weight: 300;
 }
 
 .mdc-typography--body2 {
     font-weight: 300;
     font-size: 14px;
 }
-
-/* END OF TEMPLATE CSS */
-/*
-@font-face {
-  font-family: 'Rubik Mono One', sans-serif;
-  src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
-}
-
-.h2{
-  font-family: 'Rubik Mono One', sans-serif;
-}
-*/
