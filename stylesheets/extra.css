@@ -1,7 +1,7 @@
 
 :root>* {
     --md-default-bg-color: rgb(254, 233, 235); /*Added by Marielle*/
-    --md-footer-bg-color: white;
+    --md-footer-bg-color: rgb(254, 233, 235);
     --md-footer-fg-color: rgb(32, 32, 32);
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
@@ -10,6 +10,8 @@
     --mdc-typography-font-family: 'IBM Plex Sans', sans-serif;
     --md-typeset-a-color: rgb(51, 66, 160);
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
@@ -32,9 +34,8 @@
   color: rgb(32, 32, 32);
 }
 
-@font-face {
+h2{
   font-family: 'Rubik Mono One', sans-serif;
-  src: url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 }
 
 .md-typeset h2 {
