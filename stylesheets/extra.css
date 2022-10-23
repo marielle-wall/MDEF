@@ -3,7 +3,7 @@
     --md-default-bg-color: rgb(254, 233, 235); /*Added by Marielle*/
     --md-footer-bg-color: rgb(254, 233, 235);
     --md-footer-fg-color: rgb(32, 32, 32);
-    --md-footer-bg-color--dark: white;
+    --md-footer-bg-color--dark: rgb(254, 233, 235);
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'IBM Plex Sans', sans-serif;
