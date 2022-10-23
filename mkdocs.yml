@@ -19,8 +19,8 @@ nav:
           - AoWS: term1/02-AtlasofWeakSignals.md
           - Prototyping: term1/03-Prototyping.md
       - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
+          - digi: 
+          - studio:
 
 extra:
   social:

@@ -34,11 +34,7 @@
   color: rgb(32, 32, 32);
 }
 
-h1, h2, h3{
-  font-family: 'Rubik Mono One', sans-serif;
-}
-
-.md-typeset h2 {
+.md-typeset h1, h2, h3 {
     font-family: 'Rubik Mono One'; /*Added by Marielle*/
 }
 
