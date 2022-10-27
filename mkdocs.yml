@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: Marielle Sam-Wall - MDEF & Fab Lab Barcelona
+site_name: Marielle's Public Diary
 site_description: Master in Design for Emergent Futures
 site_author: Marielle Sam-Wall
 copyright: Marielle Sam-Wall - remember, you are loved
@@ -18,9 +18,6 @@ nav:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-AtlasofWeakSignals.md
           - Prototyping: term1/03-Prototyping.md
-      - Term 2:
-          - digi:
-          - studio:
 
 extra:
   social:
@@ -40,7 +37,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary:
+    primary: rgb(254, 233, 235)
     accent: red
   font:
     # See available fonts at https://fonts.google.com/
