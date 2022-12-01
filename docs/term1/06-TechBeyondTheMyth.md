@@ -36,4 +36,3 @@ BUT after the experiment this is generally what I learned:
   2. Care is a very subjective thing - what I might think is caring, might be really harmful for others
   3. Many systems exist in a paradox of care. For example, the metro was created for the people of a city to easily get around BUT many entrances to metros are not wheelchair accessible
   4. Most instances of care I recorded were between people - but I didn't know if what I was actually capturing was care
-  
