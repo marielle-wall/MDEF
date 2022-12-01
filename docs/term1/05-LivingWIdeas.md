@@ -15,6 +15,7 @@ For a day I tried to record all the times I saw, felt, experienced care and love
 
 Going in to the experiment I assumed:
 - That I would definitely know love and care when I saw it
+
 - By the end of the day, I would feel really content with what I encountered
 
 *(TBH I really didn't think too much about what I would be seeing)*
@@ -33,6 +34,9 @@ When I went to compile the video, I found that it greatly boosted my mood! I saw
 
 BUT after the experiment this is generally what I learned:
 - I do not have a firm grasp on how I define love and care for myself
+
 - Care is a very subjective thing - what I might think is caring, might be really harmful for others
+
 - Many systems exist in a paradox of care. For example, the metro was created for the people of a city to easily get around BUT many entrances to metros are not wheelchair accessible
+
 - Most instances of care I recorded were between people - but I didn't know if what I was actually capturing was care
