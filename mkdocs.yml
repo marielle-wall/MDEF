@@ -25,6 +25,7 @@ nav:
         - Studio:
           - Prototyping: term1/03-Prototyping.md
           - Communication: term1/02-CommunicationStrat.md
+  - Resources: project/resources.md
 
 
 extra:

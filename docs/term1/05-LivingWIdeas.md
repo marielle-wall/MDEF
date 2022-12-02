@@ -14,6 +14,7 @@ hide:
 For a day I tried to record all the times I saw, felt, experienced care and love. When I had that fuzzy feeling *(I wish love was that easy to explain)* I took out my phone and snapped a 2 second video in an attempt to record it.
 
 Going in to the experiment I assumed:
+
 - That I would definitely know love and care when I saw it
 
 - By the end of the day, I would feel really content with what I encountered
@@ -33,6 +34,7 @@ Actually, all the things I saw became a little overwhelming - to the point I was
 When I went to compile the video, I found that it greatly boosted my mood! I saw so many small moments of joy throughout the day - yet I let the negative take most of my mindspace. That in itself says a lot about the impact of neglect, I think it has great ability to overshadow our ability to see love.
 
 BUT after the experiment this is generally what I learned:
+
 - I do not have a firm grasp on how I define love and care for myself
 
 - Care is a very subjective thing - what I might think is caring, might be really harmful for others
