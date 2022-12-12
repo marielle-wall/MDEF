@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-
+ 
 # community engagement
 
 This week was hard. Reality was hard. A slap in the face that I don't belong. A realization that I don't think I ever will.
