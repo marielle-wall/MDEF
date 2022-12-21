@@ -21,7 +21,13 @@ hide:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPO4WKBtRWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### reflections
-to be added *(I am so sorry, just going through a lot)*
+Ok, so these weeks were some of my favourites. Hands on, lots of help, and generally a good time -though a little stressful.
+
+The course work itself was really well developed - though I wish we got some dedicated time to learn to code Arduino. I didn’t take the pre-course, but it seemed even those who did, didn’t have a good handle on what to do. Maybe a quick hour or two refresher?
+
+I think the most part where I struggled was communication. Both in terms of instructions and group work. Communication in general is difficult - add English as a second language (and English just generally being a shit language) - there were many difficulties to be had. Even though I communicate a lot, I take a decent amount of time to think about how to communicate with others strategically, but given the hot room and feeling stressed that we have to finish something cool, I felt like I wasn’t as clear as I normally am. I feel a little bad about this - something I hope I am better at as we go through the course.
+
+Also, I think what added a lot of stress was how the project was framed through the previous projects. I remember it being said that this was just about discovery and exploring, but showing us the examples where people made very cool nice looking work in previous years wasn’t helpful. I think for me at least, it freaked me out that we had to create this beautiful thing. And unfortunately, I was on a team of over-thinkers so I wasn’t the only one feeling that. Maybe next time, if you’re doing it similarly to how it was taught to us, try showing more process pics and really emphasize it’s about discovery. Perhaps you can show our video, as that is why we took a more DIY approach with it. We wanted to show the process, as that is what was emphasized to us. Hopefully that is clear!
 
 ---
 ## other things what i created these weeks
