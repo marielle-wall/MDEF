@@ -27,6 +27,12 @@ nav:
         - Studio:
           - Prototyping: term1/03-Prototyping.md
           - Communication: term1/02-CommunicationStrat.md
+    - Term 2:
+      - Class:
+          - The Next Billion Seconds: term2/02-NextBillionSeconds.md
+          - Redesigning Materials: term2/02-RedesigningMaterials.md
+      - Studio:
+        - Reframing My Design Space: term2/01-ReframingDesignSpace.md
   - Resources: project/resources.md
 
 
