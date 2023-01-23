@@ -2,72 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://marielle-wall.github.io/MDEF/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/about/me/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/project/ToPotteryWithLove/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/project/project/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/project/resources/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/01-Bootcamp/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/02-AtlasofWeakSignals/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/02-CommunicationStrat/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/03-Prototyping/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/04-Bio%26Agro/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/05-LivingWIdeas/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/06-TechBeyondTheMyth/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/07-CommunityEngagement/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marielle-wall.github.io/MDEF/term1/08-ExtendedIntelligences/</loc>
-         <lastmod>2023-01-06</lastmod>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marielle-wall.github.io/MDEF/term2/01-ReframingDesignSpace/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marielle-wall.github.io/MDEF/term2/02-NextBillionSeconds/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marielle-wall.github.io/MDEF/term2/02-RedesigningMaterials/</loc>
+         <lastmod>2023-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
