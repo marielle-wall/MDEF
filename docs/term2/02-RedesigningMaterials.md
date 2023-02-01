@@ -7,6 +7,5 @@ hide:
 
 ##Deliverables
 
-
 ---
 ##What I created these weeks
