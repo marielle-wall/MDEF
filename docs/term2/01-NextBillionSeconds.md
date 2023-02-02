@@ -57,7 +57,6 @@ This class was also very validating to be part of. Many things that I have been 
 
 Don’t have much else to say other than: Andres – please keep in contact! Best wishes with the baby and all the love and joy!
 
-
 ---
 ##What I created this week
 
