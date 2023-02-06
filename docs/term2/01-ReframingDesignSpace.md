@@ -4,7 +4,7 @@ hide:
 ---
 
 # Redesigning My Design Space
-![](../images/term02/designspace.gif)
+c
 
 > [Check out my design space here](https://miro.com/app/board/uXjVPOimLrg=/?share_link_id=865906909973)
 
