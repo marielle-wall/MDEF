@@ -32,5 +32,21 @@ And here is a video with my reflections and goofing around:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bYVK2oejeLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Feb 8
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OEIIVJ0kwmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+So we didn't end up figuring it out... Jordan did spend a lot of time working on it, but he wasn't able to finish it before he got busy with the baby.
+
+Hope this is enough!
+
+### Feb 9
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QjTfSRjDeAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Planning to use this mold in the studio soon! LMK if you want an update *(or I can just bring it to the FabLab!)*
+
+### Micro-Challenge I
+
 ---
 ##What I created these weeks
