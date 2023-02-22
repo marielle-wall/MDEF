@@ -48,5 +48,17 @@ Planning to use this mold in the studio soon! LMK if you want an update *(or I c
 
 ### Micro-Challenge I
 
+#### Museum of Colonization (MOC)
+
+Here is a little video *(my instagram stories downloaded)* explaining our project:
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/801156884?h=14e80c359d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Microchallenge I - MDEF &amp;#039;23"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+You should also check out [our team notion](https://www.notion.so/Marielle-Stella-Carolina-MDEF-22-23-34fdfc848ec44d93bae61fdf263d6c88) and our [Github](https://github.com/stella-dikmans/MOC).
+
+And here is my video reflection for the week:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6wgV4987OVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+If you want the project files, please check out [this link *(which is basically our GitHub)*](https://github.com/stella-dikmans/MOC/tree/main/files).
+
 ---
 ##What I created these weeks
