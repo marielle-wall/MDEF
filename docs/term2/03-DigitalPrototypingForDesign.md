@@ -62,11 +62,39 @@ If you want the project files, please check out [this link *(which is basically 
 
 ###Feb 22
 
-In process :)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UW120-cAVh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+SOOOO I know we were supposed to scan the thing we made after BUT I ran in to a couple problems:
+  1. My phone is too old to 3D scan things with any existing apps :'(
+
+  2. Edu said that because my stamp is transparent and small that it wouldn't scan properly using the 3D scanner in the FabLab
+
+  3. Edu offered that I 3D scan something else, and I really couldn't be bothered *(sorry but it's true)*. I wanted to just move forward and work on some secret projects for the design dialogues *(hopefully it will be done)*
+
+Hope I don't get docked too much, but understand you gotta do what you gotta do.
 
 ###Feb 23
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jp6Z0vgaeK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+###March 1
+
+Ok so working on the video atm!
+
+But this class was about lighting a LED through various methodology. This class was SUPER engaging, and definitely was one of best facilitated classes so far. This is just in terms of doing hands on, then getting to learn the theory - it was a great set up.
+
+Super cute when we lit all the lights together!
+
+###March 2
+
+SOOOOO i was not here this day... But I am going to do this and I have a plan >:)
+
+![](../images/term02/IMG_0614.JPG)
+I found these round table-like shapes on the street on March 8th. They need tops, so I want to bring them in and create tops for them.
+
+The plan for the shorter one is to actually build a lamp into it! Will post when it is updated (will send you, Santi, an email when it is all done!).
+
+Talk soon :)
 
 ---
 ##What I created these weeks
