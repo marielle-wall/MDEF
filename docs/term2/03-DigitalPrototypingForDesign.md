@@ -65,10 +65,9 @@ If you want the project files, please check out [this link *(which is basically 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UW120-cAVh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 SOOOO I know we were supposed to scan the thing we made after BUT I ran in to a couple problems:
+
   1. My phone is too old to 3D scan things with any existing apps :'(
-
   2. Edu said that because my stamp is transparent and small that it wouldn't scan properly using the 3D scanner in the FabLab
-
   3. Edu offered that I 3D scan something else, and I really couldn't be bothered *(sorry but it's true)*. I wanted to just move forward and work on some secret projects for the design dialogues *(hopefully it will be done)*
 
 Hope I don't get docked too much, but understand you gotta do what you gotta do.
