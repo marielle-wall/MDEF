@@ -78,7 +78,7 @@ Hope I don't get docked too much, but understand you gotta do what you gotta do.
 
 ###March 1
 
-Ok so working on the video atm!
+Ok so working on the video atm! Probably will be really short, as it was a class where we just walked thorugh things!
 
 But this class was about lighting a LED through various methodology. This class was SUPER engaging, and definitely was one of best facilitated classes so far. This is just in terms of doing hands on, then getting to learn the theory - it was a great set up.
 
@@ -92,8 +92,22 @@ SOOOOO i was not here this day... But I am going to do this and I have a plan >:
 I found these round table-like shapes on the street on March 8th. They need tops, so I want to bring them in and create tops for them.
 
 The plan for the shorter one is to actually build a lamp into it! Will post when it is updated (will send you, Santi, an email when it is all done!).
+...
 
-Talk soon :)
+Sooooo with the end of the semester, I didn't get a chance to use the CNC. I have every intention of doing so and got the wood I want to cut the tops with but just couldn't make the times to get it done. Know you can't give full marks for it, but you will see me using the CNC next semester!
+
+##Micro-Challenge II
+
+Currently making the video on this!
+
+You can check out the [github](https://github.com/stella-dikmans/MOC-II/blob/main/README.md) and our [notion](https://hickory-polonium-fd1.notion.site/Marielle-Stella-Carolina-MDEF-22-23-34fdfc848ec44d93bae61fdf263d6c88).
+
+An overview reflection for now is:
+
+- Electronics are 10x more difficult than you think they will be
+- I really enjoy doing the mechanical things!
+- Always ask people if they want an explaination before assuming they need one.
+
 
 ---
 ##What I created these weeks
