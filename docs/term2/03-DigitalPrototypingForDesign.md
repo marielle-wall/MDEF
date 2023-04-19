@@ -78,11 +78,22 @@ Hope I don't get docked too much, but understand you gotta do what you gotta do.
 
 ###March 1
 
-Ok so working on the video atm! Probably will be really short, as it was a class where we just walked thorugh things!
+Ok, so couldn't get myself to make a video about this. Seems I am pretty low energy these days. BUT I am going to attempt a written reflection *(I know, I know, hold you applause)*.
 
-But this class was about lighting a LED through various methodology. This class was SUPER engaging, and definitely was one of best facilitated classes so far. This is just in terms of doing hands on, then getting to learn the theory - it was a great set up.
+This class was about lighting a LED through various methodology. I found this one of the most engaging classes as it was very hands on and well facilitated. I enjoyed the set up of:
 
-Super cute when we lit all the lights together!
+- Try it out *(fuck around)*
+- Learn the theory *(and find out)*
+
+Because my computer weirdly doesn't work with the ESP32 Feather, I borrowed a laptop from the FabLab to do the work. I enjoyed learning about how we made the different networks and how we connected to the internet.
+
+I think in the future, I would like to go deeper into creating devices and design objects that have their own little networks. But we will see what I create next semester!
+
+
+Here is a video of when we synced up some of the lights! *(very cute)*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WuJbjdaZwrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ###March 2
 
@@ -96,9 +107,11 @@ The plan for the shorter one is to actually build a lamp into it! Will post when
 
 Sooooo with the end of the semester, I didn't get a chance to use the CNC. I have every intention of doing so and got the wood I want to cut the tops with but just couldn't make the times to get it done. Know you can't give full marks for it, but you will see me using the CNC next semester!
 
+![](../images/term02/foundwood.jpg)
+
 ##Micro-Challenge II
 
-Currently making the video on this!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHsk4pYTUzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You can check out the [github](https://github.com/stella-dikmans/MOC-II/blob/main/README.md) and our [notion](https://hickory-polonium-fd1.notion.site/Marielle-Stella-Carolina-MDEF-22-23-34fdfc848ec44d93bae61fdf263d6c88).
 
@@ -106,8 +119,4 @@ An overview reflection for now is:
 
 - Electronics are 10x more difficult than you think they will be
 - I really enjoy doing the mechanical things!
-- Always ask people if they want an explaination before assuming they need one.
-
-
----
-##What I created these weeks
+- Always ask people if they want an explanation before assuming they need one.
