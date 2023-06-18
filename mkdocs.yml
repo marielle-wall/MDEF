@@ -32,12 +32,17 @@ nav:
           - The Next Billion Seconds: term2/01-NextBillionSeconds.md
           - Redesigning Materials: term2/02-RedesigningMaterials.md
           - Digital Prototyping for Design: term2/03-DigitalPrototypingForDesign.md
+          - Measuring the World: term2/04-MeasuringTheWorld.md
+          - Making Sense and Meaning: term2/05-MakingSense&Meaning.md
+          - Communicating Ideas: 06-CommunicatingIdeas.md
         - Studio:
           - Reframing My Design Space: term2/01-ReframingDesignSpace.md
       - Term 3:
         - Class:
           - Distributed Design: term3/01-DistributedDesign.md
-  - Resources: project/resources.md
+          - Prototyping for Design: term3/02-PrototypingForDesign.md
+          - Design Ethics: term3/03-DesignEthics.md
+          - Critical Transfeminist Design: term3/04-CriticalTransfeministDesign.md
 
 
 extra:
